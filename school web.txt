@@ -1,0 +1,48 @@
+<html>
+<HEAD>
+<TITLE>
+school web practice
+</TITLE>
+</HEAD>
+<BODY>
+<Body BGCOLOR = red TEXT = yellow>
+<h1 ALIGN ="center"><B><I><U>Abdullah</U></I></B><h1>
+<h2 ALIGN ="LEFT">SUBJECTS<H2>
+<h3 ALIGN ="LEFT">Microbiology<h3>
+<h3 ALIGN ="left">biotechnology<h3>
+<h3 ALIGN ="left">molecular biology<h3>
+<h3 ALIGN ="left">bio chemisrty<h3>
+<h2 ALIGN ="LEFT">PROFESSOR<H2>
+<OL type=A>
+<LI>prof.Amjad Muneer</LI>
+<LI>prof.ahmad</LI>
+<LI>prof.qasim</LI>
+<LI>prof.Noorulah</LI>
+<UL type=square>
+<LI>prof.Amjad Muneer</LI>
+<DL>
+<DT>Their subject</DT>
+<DD>Microbiolog</DD>
+</DL>
+<LI>ahmad</LI>
+<DL>
+<DT>Their subject</DT>
+<DD>biotechnology</DD>
+</DL>
+<LI>qasim</LI>
+<DL>
+<DT>Their subject</DT>
+<DD>molecular biology</DD>
+</DL>
+<LI>Noorulah</LI>
+<DL>
+<DT>Their subject</DT>
+<DD>bio chemisrty</DD>
+</DL>
+</UL>
+</OL>
+
+<h1 ALIGN ="center"><Font Face="Blackadder ITC" Size= "19" color="black">The End</Font></h1>
+<HR ALIGN="center" Size="5" WIDTH="300" color="blue">
+</body>
+</html>
